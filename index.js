@@ -61,3 +61,11 @@ console.log(corFavoritaSession);
 //<--------------------------------- Removendo dados do sessionStorage ---------------------------------------------->
 
 sessionStorage.removeItem('corFavorita'); 
+
+
+
+
+
+
+
+
